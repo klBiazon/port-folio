@@ -1,0 +1,10 @@
+body, html {
+  height: 100%;
+  margin: 0; }
+
+.front-bg {
+  background-image: url("../images/Laptop BG.jpeg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }

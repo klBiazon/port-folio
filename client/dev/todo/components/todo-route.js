@@ -4,7 +4,7 @@ var router_1 = require("@angular/router");
 var todo_cmp_1 = require("../components/todo-cmp");
 var todoRoutes = [
     {
-        path: "",
+        path: "todo",
         component: todo_cmp_1.TodoCmp,
         pathMatch: "full"
     }
